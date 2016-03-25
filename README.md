@@ -1,6 +1,6 @@
 # observable
 
-Event observer pattern
+> Event observer pattern in JavaScript.
 
 # Install
 
@@ -8,14 +8,10 @@ Event observer pattern
 npm install observablejs
 ```
 
-```bash
-bower install observablejs
-```
-
 # Usage
 
 ```javascript
-var observable = require('observablejs');
+const observable = require('observablejs');
 
 function Foo() {
   observable(this);

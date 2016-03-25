@@ -1,6 +1,6 @@
 {
   "name": "observablejs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Event observer pattern",
   "main": "observable.js",
   "directories": {
@@ -23,7 +23,7 @@
     "url": "https://github.com/miguelmota/observable/issues"
   },
   "homepage": "https://github.com/miguelmota/observable",
-  "dependencies": {
+  "devDependencies": {
     "tape": "^3.0.3"
   }
 }
